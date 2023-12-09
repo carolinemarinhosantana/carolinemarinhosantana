@@ -1,16 +1,25 @@
-### Hi there 👋
+🤖Olá! Eu sou Caroline Marinho Sant Ana 🤖
 
-<!--
-**carolinemarinhosantana/carolinemarinhosantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Estudando na Faculdade Salvador Arena.
+- 👨‍🎓 Estudante das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
+- 🌱Skils , HTML, CSS e JavaScript.
+- 🤖 Pronouns: ele/dele.
+<hr>
+<div>
+  <a href="https://github.com/carolinemarinhosantana">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatodavid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodavid&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+    
+<div style="display: inline_block"><br>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" heigth="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+   
+ </div>
+<hr>
