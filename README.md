@@ -5,12 +5,12 @@
 - 👨‍🎓 Estudando na Faculdade Salvador Arena.
 - 👨‍🎓 Estudante das seguintes tecnologias, Métodologias ágeis, Html, CSS, Boostrap, Versionamento de Git, Java, JavaScript, React.Js, Linux, Banco de Dados NoSql.
 - 🌱Skils , HTML, CSS e JavaScript.
-- 🤖 Pronouns: ele/dele.
+- 🤖 Pronouns: ela/dela.
 <hr>
 <div>
   <a href="https://github.com/carolinemarinhosantana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatodavid&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodavid&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolinemarinhosantana &show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinemarinhosantana &layout=compact&langs_count=16&theme=dracula"/>
 </div>
     
 <div style="display: inline_block"><br>
